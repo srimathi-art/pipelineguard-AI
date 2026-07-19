@@ -1,0 +1,7 @@
+2026-07-11 09:00:01 INFO GitHub Actions workflow started
+2026-07-11 09:02:12 WARNING Dependency package is deprecated
+2026-07-11 09:04:30 ERROR pytest test failed with AssertionError
+2026-07-11 09:08:42 ERROR Authentication failed due to invalid token
+2026-07-11 09:10:19 WARNING Docker build cache was not found
+2026-07-11 09:12:54 ERROR Docker image build failed
+2026-07-11 09:15:00 INFO Workflow cleanup completed

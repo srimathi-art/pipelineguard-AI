@@ -1,0 +1,493 @@
+log,severity
+API response time is slow at 24 milliseconds,WARNING
+Deployment failed due to missing secret,ERROR
+pip install failed because dependency was not found,ERROR
+Deployment failed due to missing secret,ERROR
+Test was skipped,WARNING
+Deployment version 14 completed successfully,INFO
+Docker image build completed,INFO
+Deployment version 35 completed successfully,INFO
+Critical service health check failed,ERROR
+Retry attempt 68 for external service,WARNING
+Health check passed for service api,INFO
+Health check passed for service api,INFO
+Authentication token will expire soon,WARNING
+Connection pool usage is high,WARNING
+Permission denied while accessing configuration,ERROR
+Deployment version 17 completed successfully,INFO
+Worker process started,INFO
+User login completed successfully,INFO
+Request processed with status 200,INFO
+Configuration loaded successfully,INFO
+Docker build cache was not found,WARNING
+CPU utilization reached 61 percent,WARNING
+Request processed with status 200,INFO
+Application started successfully on port 96,INFO
+API response time is slow at 79 milliseconds,WARNING
+Disk write failed because device is full,ERROR
+Disk capacity is approaching limit,WARNING
+SQL query execution failed,ERROR
+Application started successfully on port 15,INFO
+Memory usage is above warning threshold,WARNING
+OutOfMemoryError in worker process,ERROR
+Docker build cache was not found,WARNING
+pip install failed because dependency was not found,ERROR
+Health check passed for service api,INFO
+pip install failed because dependency was not found,ERROR
+User login completed successfully,INFO
+Request processed with status 200,INFO
+Test was skipped,WARNING
+Connection pool usage is high,WARNING
+API response time is slow at 83 milliseconds,WARNING
+DNS resolution failed for service endpoint,ERROR
+Retry attempt 53 for external service,WARNING
+Test was skipped,WARNING
+Docker image build completed,INFO
+Test was skipped,WARNING
+Deprecated configuration option detected,WARNING
+Unhandled exception in application module,ERROR
+API response time is slow at 66 milliseconds,WARNING
+Critical service health check failed,ERROR
+User login completed successfully,INFO
+GitHub Actions workflow completed successfully,INFO
+Queue size exceeded recommended threshold,WARNING
+CPU utilization reached 3 percent,WARNING
+Health check passed for service api,INFO
+GitHub Actions workflow completed successfully,INFO
+Deployment failed due to missing secret,ERROR
+Disk capacity is approaching limit,WARNING
+Dependency package is deprecated,WARNING
+DNS resolution failed for service endpoint,ERROR
+SQL query execution failed,ERROR
+All tests passed,INFO
+Worker process started,INFO
+Request processed with status 200,INFO
+Connection refused by upstream service,ERROR
+Critical service health check failed,ERROR
+API response time is slow at 27 milliseconds,WARNING
+Memory usage is above warning threshold,WARNING
+Scheduled backup completed,INFO
+OutOfMemoryError in worker process,ERROR
+Critical service health check failed,ERROR
+Disk write failed because device is full,ERROR
+Cache initialized successfully,INFO
+Permission denied while accessing configuration,ERROR
+Configuration loaded successfully,INFO
+SQL query execution failed,ERROR
+Retry attempt 93 for external service,WARNING
+Critical service health check failed,ERROR
+Deployment version 79 completed successfully,INFO
+Dependency package is deprecated,WARNING
+SQL query execution failed,ERROR
+Scheduled backup completed,INFO
+All tests passed,INFO
+Application started successfully on port 16,INFO
+Docker image build failed,ERROR
+Disk capacity is approaching limit,WARNING
+Queue size exceeded recommended threshold,WARNING
+pip install failed because dependency was not found,ERROR
+pip install failed because dependency was not found,ERROR
+Scheduled backup completed,INFO
+Docker build cache was not found,WARNING
+Critical service health check failed,ERROR
+GitHub Actions workflow completed successfully,INFO
+OutOfMemoryError in worker process,ERROR
+Test was skipped,WARNING
+pytest test failed with AssertionError,ERROR
+pytest test failed with AssertionError,ERROR
+Authentication failed due to invalid token,ERROR
+Deployment version 50 completed successfully,INFO
+Worker process started,INFO
+Memory usage is above warning threshold,WARNING
+Request processed with status 200,INFO
+OutOfMemoryError in worker process,ERROR
+DNS resolution failed for service endpoint,ERROR
+Database migration completed,INFO
+Connection pool usage is high,WARNING
+DNS resolution failed for service endpoint,ERROR
+Application started successfully on port 96,INFO
+Cache initialized successfully,INFO
+Queue size exceeded recommended threshold,WARNING
+DNS resolution failed for service endpoint,ERROR
+Docker build cache was not found,WARNING
+Database connection timed out,ERROR
+Test was skipped,WARNING
+Connection refused by upstream service,ERROR
+pytest test failed with AssertionError,ERROR
+Permission denied while accessing configuration,ERROR
+Memory usage is above warning threshold,WARNING
+Disk write failed because device is full,ERROR
+Docker build cache was not found,WARNING
+pip install failed because dependency was not found,ERROR
+Unhandled exception in application module,ERROR
+Network latency is elevated,WARNING
+Dependency package is deprecated,WARNING
+GitHub Actions workflow failed,ERROR
+Docker image build completed,INFO
+Test was skipped,WARNING
+Worker process started,INFO
+Health check passed for service api,INFO
+Docker build cache was not found,WARNING
+Memory usage is above warning threshold,WARNING
+Database migration completed,INFO
+Worker process started,INFO
+Database migration completed,INFO
+Connection refused by upstream service,ERROR
+OutOfMemoryError in worker process,ERROR
+Disk capacity is approaching limit,WARNING
+Queue size exceeded recommended threshold,WARNING
+Worker process started,INFO
+Docker image build completed,INFO
+API response time is slow at 66 milliseconds,WARNING
+CPU utilization reached 89 percent,WARNING
+Unhandled exception in application module,ERROR
+Authentication token will expire soon,WARNING
+Worker process started,INFO
+API response time is slow at 99 milliseconds,WARNING
+Authentication token will expire soon,WARNING
+Scheduled backup completed,INFO
+Network latency is elevated,WARNING
+Scheduled backup completed,INFO
+pip install failed because dependency was not found,ERROR
+Critical service health check failed,ERROR
+Deployment version 47 completed successfully,INFO
+OutOfMemoryError in worker process,ERROR
+Cache initialized successfully,INFO
+GitHub Actions workflow completed successfully,INFO
+pip install failed because dependency was not found,ERROR
+Deployment failed due to missing secret,ERROR
+GitHub Actions workflow completed successfully,INFO
+Scheduled backup completed,INFO
+GitHub Actions workflow failed,ERROR
+SQL query execution failed,ERROR
+Deployment failed due to missing secret,ERROR
+Dependency package is deprecated,WARNING
+Disk write failed because device is full,ERROR
+SQL query execution failed,ERROR
+Worker process started,INFO
+Unhandled exception in application module,ERROR
+Connection pool usage is high,WARNING
+Critical service health check failed,ERROR
+Deprecated configuration option detected,WARNING
+Scheduled backup completed,INFO
+Docker build cache was not found,WARNING
+GitHub Actions workflow failed,ERROR
+Connection refused by upstream service,ERROR
+Configuration loaded successfully,INFO
+Dependency package is deprecated,WARNING
+Connection pool usage is high,WARNING
+Application started successfully on port 33,INFO
+Deployment version 46 completed successfully,INFO
+DNS resolution failed for service endpoint,ERROR
+Retry attempt 27 for external service,WARNING
+Critical service health check failed,ERROR
+API response time is slow at 15 milliseconds,WARNING
+User login completed successfully,INFO
+CPU utilization reached 70 percent,WARNING
+Deployment version 70 completed successfully,INFO
+DNS resolution failed for service endpoint,ERROR
+User login completed successfully,INFO
+All tests passed,INFO
+Application started successfully on port 37,INFO
+GitHub Actions workflow failed,ERROR
+User login completed successfully,INFO
+Configuration loaded successfully,INFO
+Authentication token will expire soon,WARNING
+Authentication token will expire soon,WARNING
+Configuration loaded successfully,INFO
+Disk capacity is approaching limit,WARNING
+Queue size exceeded recommended threshold,WARNING
+Network latency is elevated,WARNING
+Disk capacity is approaching limit,WARNING
+pip install failed because dependency was not found,ERROR
+Database connection timed out,ERROR
+GitHub Actions workflow failed,ERROR
+Permission denied while accessing configuration,ERROR
+Configuration loaded successfully,INFO
+OutOfMemoryError in worker process,ERROR
+Health check passed for service api,INFO
+Network latency is elevated,WARNING
+Scheduled backup completed,INFO
+Network latency is elevated,WARNING
+Connection refused by upstream service,ERROR
+User login completed successfully,INFO
+Database connection timed out,ERROR
+SQL query execution failed,ERROR
+GitHub Actions workflow completed successfully,INFO
+Deployment failed due to missing secret,ERROR
+pytest test failed with AssertionError,ERROR
+Application started successfully on port 30,INFO
+Docker image build failed,ERROR
+CPU utilization reached 34 percent,WARNING
+Network latency is elevated,WARNING
+Database migration completed,INFO
+pytest test failed with AssertionError,ERROR
+Health check passed for service api,INFO
+API response time is slow at 82 milliseconds,WARNING
+Cache initialized successfully,INFO
+Docker image build failed,ERROR
+Memory usage is above warning threshold,WARNING
+Dependency package is deprecated,WARNING
+Disk write failed because device is full,ERROR
+Authentication token will expire soon,WARNING
+Application started successfully on port 19,INFO
+Retry attempt 85 for external service,WARNING
+Database migration completed,INFO
+Configuration loaded successfully,INFO
+Docker build cache was not found,WARNING
+Unhandled exception in application module,ERROR
+Deployment version 60 completed successfully,INFO
+Retry attempt 95 for external service,WARNING
+Disk write failed because device is full,ERROR
+Database connection timed out,ERROR
+Dependency package is deprecated,WARNING
+API response time is slow at 66 milliseconds,WARNING
+API response time is slow at 21 milliseconds,WARNING
+All tests passed,INFO
+Docker image build failed,ERROR
+Deprecated configuration option detected,WARNING
+Queue size exceeded recommended threshold,WARNING
+Database connection timed out,ERROR
+Connection refused by upstream service,ERROR
+Database connection timed out,ERROR
+Disk capacity is approaching limit,WARNING
+Request processed with status 200,INFO
+Docker build cache was not found,WARNING
+Authentication token will expire soon,WARNING
+Application started successfully on port 96,INFO
+Authentication token will expire soon,WARNING
+Disk write failed because device is full,ERROR
+Application started successfully on port 88,INFO
+Disk capacity is approaching limit,WARNING
+Unhandled exception in application module,ERROR
+Cache initialized successfully,INFO
+Scheduled backup completed,INFO
+Network latency is elevated,WARNING
+Connection refused by upstream service,ERROR
+DNS resolution failed for service endpoint,ERROR
+Deprecated configuration option detected,WARNING
+Disk write failed because device is full,ERROR
+Scheduled backup completed,INFO
+Connection refused by upstream service,ERROR
+Request processed with status 200,INFO
+Database connection timed out,ERROR
+Database migration completed,INFO
+Request processed with status 200,INFO
+Configuration loaded successfully,INFO
+Health check passed for service api,INFO
+Dependency package is deprecated,WARNING
+CPU utilization reached 94 percent,WARNING
+Authentication failed due to invalid token,ERROR
+All tests passed,INFO
+Authentication failed due to invalid token,ERROR
+Disk write failed because device is full,ERROR
+Health check passed for service api,INFO
+Connection pool usage is high,WARNING
+All tests passed,INFO
+Docker image build completed,INFO
+Authentication token will expire soon,WARNING
+Permission denied while accessing configuration,ERROR
+All tests passed,INFO
+Docker image build completed,INFO
+All tests passed,INFO
+Retry attempt 90 for external service,WARNING
+pytest test failed with AssertionError,ERROR
+Docker image build failed,ERROR
+Retry attempt 98 for external service,WARNING
+Disk write failed because device is full,ERROR
+Connection pool usage is high,WARNING
+Queue size exceeded recommended threshold,WARNING
+Deployment failed due to missing secret,ERROR
+CPU utilization reached 89 percent,WARNING
+Dependency package is deprecated,WARNING
+Network latency is elevated,WARNING
+Docker build cache was not found,WARNING
+Configuration loaded successfully,INFO
+OutOfMemoryError in worker process,ERROR
+Configuration loaded successfully,INFO
+Docker image build failed,ERROR
+Dependency package is deprecated,WARNING
+Scheduled backup completed,INFO
+Retry attempt 49 for external service,WARNING
+Network latency is elevated,WARNING
+GitHub Actions workflow failed,ERROR
+Database migration completed,INFO
+Connection pool usage is high,WARNING
+Deployment version 7 completed successfully,INFO
+Application started successfully on port 5,INFO
+OutOfMemoryError in worker process,ERROR
+Docker image build completed,INFO
+pytest test failed with AssertionError,ERROR
+Queue size exceeded recommended threshold,WARNING
+Disk capacity is approaching limit,WARNING
+Cache initialized successfully,INFO
+Test was skipped,WARNING
+Database connection timed out,ERROR
+Deprecated configuration option detected,WARNING
+Retry attempt 41 for external service,WARNING
+Health check passed for service api,INFO
+Database connection timed out,ERROR
+Authentication token will expire soon,WARNING
+Docker image build completed,INFO
+User login completed successfully,INFO
+pip install failed because dependency was not found,ERROR
+Request processed with status 200,INFO
+Cache initialized successfully,INFO
+Database migration completed,INFO
+Unhandled exception in application module,ERROR
+Docker image build completed,INFO
+Health check passed for service api,INFO
+Memory usage is above warning threshold,WARNING
+GitHub Actions workflow failed,ERROR
+OutOfMemoryError in worker process,ERROR
+DNS resolution failed for service endpoint,ERROR
+Queue size exceeded recommended threshold,WARNING
+GitHub Actions workflow completed successfully,INFO
+Health check passed for service api,INFO
+pytest test failed with AssertionError,ERROR
+Worker process started,INFO
+Authentication token will expire soon,WARNING
+Permission denied while accessing configuration,ERROR
+Database migration completed,INFO
+Authentication failed due to invalid token,ERROR
+Connection refused by upstream service,ERROR
+Connection pool usage is high,WARNING
+Retry attempt 58 for external service,WARNING
+CPU utilization reached 16 percent,WARNING
+OutOfMemoryError in worker process,ERROR
+Permission denied while accessing configuration,ERROR
+Test was skipped,WARNING
+DNS resolution failed for service endpoint,ERROR
+Cache initialized successfully,INFO
+GitHub Actions workflow completed successfully,INFO
+GitHub Actions workflow completed successfully,INFO
+Docker image build failed,ERROR
+Dependency package is deprecated,WARNING
+Deprecated configuration option detected,WARNING
+GitHub Actions workflow completed successfully,INFO
+Test was skipped,WARNING
+Database connection timed out,ERROR
+Worker process started,INFO
+Authentication failed due to invalid token,ERROR
+Disk capacity is approaching limit,WARNING
+DNS resolution failed for service endpoint,ERROR
+Deprecated configuration option detected,WARNING
+Deployment failed due to missing secret,ERROR
+Configuration loaded successfully,INFO
+Dependency package is deprecated,WARNING
+GitHub Actions workflow completed successfully,INFO
+Connection refused by upstream service,ERROR
+Deprecated configuration option detected,WARNING
+CPU utilization reached 98 percent,WARNING
+Deprecated configuration option detected,WARNING
+Authentication failed due to invalid token,ERROR
+CPU utilization reached 69 percent,WARNING
+Queue size exceeded recommended threshold,WARNING
+GitHub Actions workflow completed successfully,INFO
+SQL query execution failed,ERROR
+Configuration loaded successfully,INFO
+Authentication failed due to invalid token,ERROR
+Docker image build failed,ERROR
+Database connection timed out,ERROR
+Critical service health check failed,ERROR
+Authentication failed due to invalid token,ERROR
+pytest test failed with AssertionError,ERROR
+Connection pool usage is high,WARNING
+API response time is slow at 40 milliseconds,WARNING
+Cache initialized successfully,INFO
+Authentication failed due to invalid token,ERROR
+GitHub Actions workflow failed,ERROR
+Unhandled exception in application module,ERROR
+Disk write failed because device is full,ERROR
+Connection refused by upstream service,ERROR
+Network latency is elevated,WARNING
+Network latency is elevated,WARNING
+Application started successfully on port 83,INFO
+Permission denied while accessing configuration,ERROR
+Disk write failed because device is full,ERROR
+User login completed successfully,INFO
+Docker image build completed,INFO
+Cache initialized successfully,INFO
+Test was skipped,WARNING
+Disk capacity is approaching limit,WARNING
+Critical service health check failed,ERROR
+Queue size exceeded recommended threshold,WARNING
+Docker build cache was not found,WARNING
+Connection pool usage is high,WARNING
+CPU utilization reached 72 percent,WARNING
+SQL query execution failed,ERROR
+Unhandled exception in application module,ERROR
+Memory usage is above warning threshold,WARNING
+Connection pool usage is high,WARNING
+Docker build cache was not found,WARNING
+Docker image build failed,ERROR
+Docker image build failed,ERROR
+All tests passed,INFO
+Test was skipped,WARNING
+Deployment failed due to missing secret,ERROR
+All tests passed,INFO
+Deployment version 50 completed successfully,INFO
+User login completed successfully,INFO
+Memory usage is above warning threshold,WARNING
+Network latency is elevated,WARNING
+Authentication failed due to invalid token,ERROR
+pytest test failed with AssertionError,ERROR
+Queue size exceeded recommended threshold,WARNING
+OutOfMemoryError in worker process,ERROR
+GitHub Actions workflow failed,ERROR
+Docker image build failed,ERROR
+DNS resolution failed for service endpoint,ERROR
+Scheduled backup completed,INFO
+All tests passed,INFO
+Memory usage is above warning threshold,WARNING
+Deprecated configuration option detected,WARNING
+Cache initialized successfully,INFO
+Authentication failed due to invalid token,ERROR
+Deployment failed due to missing secret,ERROR
+Database migration completed,INFO
+Database migration completed,INFO
+Docker image build failed,ERROR
+SQL query execution failed,ERROR
+Critical service health check failed,ERROR
+CPU utilization reached 78 percent,WARNING
+Memory usage is above warning threshold,WARNING
+Retry attempt 87 for external service,WARNING
+Permission denied while accessing configuration,ERROR
+Cache initialized successfully,INFO
+Database migration completed,INFO
+Authentication token will expire soon,WARNING
+pytest test failed with AssertionError,ERROR
+User login completed successfully,INFO
+pip install failed because dependency was not found,ERROR
+Disk capacity is approaching limit,WARNING
+Deployment version 95 completed successfully,INFO
+Connection refused by upstream service,ERROR
+SQL query execution failed,ERROR
+Request processed with status 200,INFO
+All tests passed,INFO
+Docker image build completed,INFO
+GitHub Actions workflow failed,ERROR
+Unhandled exception in application module,ERROR
+GitHub Actions workflow failed,ERROR
+Authentication failed due to invalid token,ERROR
+Permission denied while accessing configuration,ERROR
+Deprecated configuration option detected,WARNING
+SQL query execution failed,ERROR
+Memory usage is above warning threshold,WARNING
+GitHub Actions workflow failed,ERROR
+Unhandled exception in application module,ERROR
+Worker process started,INFO
+User login completed successfully,INFO
+Deprecated configuration option detected,WARNING
+pip install failed because dependency was not found,ERROR
+Worker process started,INFO
+Permission denied while accessing configuration,ERROR
+Permission denied while accessing configuration,ERROR
+Request processed with status 200,INFO
+pytest test failed with AssertionError,ERROR
+Docker image build completed,INFO
+Deployment failed due to missing secret,ERROR
+Deployment failed due to missing secret,ERROR
+Request processed with status 200,INFO
+Unhandled exception in application module,ERROR
+Database connection timed out,ERROR
