@@ -1,3 +1,5 @@
+# live Application
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pipelineguard-ai.streamlit.app)
 # PipelineGuard AI
 
 Professional CI/CD log intelligence dashboard with GitHub Actions integration.
